@@ -31,7 +31,7 @@ Este repositório será atualizado conforme meu aprendizado evoluir, podendo fut
 ---
 ## 👨‍💻 Autor
 
-**Bruno Ibrahim**
+**Bruno Barros**
 
 *Projeto desenvolvido para fins de estudo e aprendizado.*
 
