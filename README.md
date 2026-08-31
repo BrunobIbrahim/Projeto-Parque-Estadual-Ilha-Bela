@@ -29,5 +29,10 @@ Pretendo continuar aprimorando este projeto conforme avanço nos estudos, adicio
 Este repositório será atualizado conforme meu aprendizado evoluir, podendo futuramente receber novas tecnologias e funcionalidades.
 
 ---
+## 👨‍💻 Autor
+
+**Bruno Ibrahim**
 
 *Projeto desenvolvido para fins de estudo e aprendizado.*
+
+---
